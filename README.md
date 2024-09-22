@@ -1,7 +1,7 @@
-Calculator Project
+#Calculator Project
 This project is a simple calculator application that allows users to perform basic mathematical operations. It features a user-friendly interface and supports addition, subtraction, multiplication, and division.
 
-Features
+#Features
 Basic Mathematical Operations:
 Addition (+)
 Subtraction (-)
