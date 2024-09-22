@@ -1,16 +1,31 @@
-#Calculator Project
-This project is a simple calculator application that allows users to perform basic mathematical operations. It features a user-friendly interface and supports addition, subtraction, multiplication, and division.
+# Calculator Project
 
-#Features
-Basic Mathematical Operations:
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Result Display: Shows the result of the calculation when the equals (=) button is pressed.
-Clear Functionality: The clear (C) button resets the input field for a fresh start.
-Responsive Design: The layout adapts to various screen sizes for an optimal user experience.
-Technologies Used
-HTML: To structure the user interface.
-CSS: For styling the calculator and enhancing the visual appearance.
-JavaScript: To implement the logic for calculations and user interactions.
+## Overview
+
+This project is a simple calculator application that allows users to perform basic mathematical operations like addition, subtraction, multiplication, and division. It features a user-friendly interface and is built using HTML, CSS, and JavaScript.
+
+## Features
+
+- **Basic Operations**: 
+  - Addition (`+`)
+  - Subtraction (`-`)
+  - Multiplication (`*`)
+  - Division (`/`)
+- **Result Display**: View the result when the equals (`=`) button is pressed.
+- **Clear Functionality**: Reset the calculator with the clear (`C`) button.
+- **Responsive Design**: Adjusts to various screen sizes for a seamless user experience.
+
+## Technologies Used
+
+- **HTML**: For structuring the interface.
+- **CSS**: For styling and layout.
+- **JavaScript**: For implementing the calculation logic.
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/serhatuzn/calculator.git
